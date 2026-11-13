@@ -23,7 +23,7 @@
 *Team Lead, Backend Developer, Database Developer*
 
 **Артём** - [@BPSAY](https://github.com/BPSAY)\
-*Frontend Developer*
+*Frontend Developer, QA Engineer*
 
 **Руководитель команды:** Богдан\
 **Название команды:** ByteForge
